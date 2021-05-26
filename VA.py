@@ -45,7 +45,7 @@ def takecommand():
 if __name__ == "__main__":
     
     wishme()
-    speak(" Yo Yo Pranab saha is here! How may i help you bro")
+    speak(" Yo Yo Heisenberg is here! How may i help you bro")
 
     while True:
         query = takecommand(). lower()
